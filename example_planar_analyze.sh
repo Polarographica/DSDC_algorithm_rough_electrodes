@@ -1,0 +1,1 @@
+python3 scripts/main_analysis.py --electrodestructure "001_Planar_stack_8x8" --runnameaddition "example_planar_99.99"

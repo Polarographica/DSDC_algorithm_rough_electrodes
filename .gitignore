@@ -1,0 +1,9 @@
+*.npy
+*.txt
+!requirements.txt
+*.png
+__pycache__/
+data/output/runs/*
+venv/
+wslenv/
+winenv/

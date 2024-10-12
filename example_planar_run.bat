@@ -1,0 +1,1 @@
+python scripts/main.py --electrodestructure "001_Planar_stack_8x8" --runnameaddition "example_planar_99.99" --stop_ratio_slope 99.99 --stop_ratio_similarity 99.99 --n_power_of_two 3 --debug True
